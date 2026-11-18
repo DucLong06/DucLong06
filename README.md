@@ -3,7 +3,7 @@
 I'm **Hoang Duc Long** — a software engineer who loves open source, currently digging deep into **AI infrastructure, LLM security (gateway & guardrails)** and Kubernetes.
 
 - 🔭 Working on: AI Gateway & Guardrail (LiteLLM, vLLM on DGX), Rust TUI tools
-- 🌱 Learning: AI Infra, LLMOps, KCNA, English
+- 🌱 Learning: AI Infra, LLMOps
 - 💬 Ask me about: LLM gateway, MLOps on GKE, Rust TUI apps
 
 **Some things I've built:**
