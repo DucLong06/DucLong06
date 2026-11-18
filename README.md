@@ -11,4 +11,3 @@ An engineer who loves open source — curious about a bit of everything, mostly 
 - 🗺️ [ai-infra-roadmap](https://github.com/DucLong06/ai-infra-roadmap) — curated AI infrastructure learning roadmap
 - ⌨️ [terminal-setup](https://github.com/DucLong06/terminal-setup) — one-command Ghostty/Neovim/zsh setup
 
-Giờ mới biết đẩy về README... để update dần dần 🛠️ — từ một engineer thích mở và khám phá.
